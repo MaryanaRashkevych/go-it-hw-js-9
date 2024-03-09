@@ -1,12 +1,13 @@
 {
-  "name": "vanilla-app-template",
+  "name": "HOMEWORK 9",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/MaryanaRashkevych/",
-    "preview": "vite preview"
+    "build": "vite build --base=/maryanarashkevych/go-it-hw-js-9/",
+    "preview": "vite preview",
+    "push": "git add .; git commit -m 'update'; git push;"
   },
   "devDependencies": {
     "vite": "^4.5.2",
