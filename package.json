@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/maryanarashkevych/go-it-hw-js-9/",
+    "build": "vite build --base=/go-it-hw-js-9/",
     "preview": "vite preview",
     "push": "git add .; git commit -m 'update'; git push;"
   },
